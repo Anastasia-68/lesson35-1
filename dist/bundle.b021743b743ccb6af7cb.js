@@ -16,7 +16,7 @@
   \******************************************************************************************************/
 (module, __webpack_exports__, __webpack_require__) {
 
-eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/getUrl.js */ \"./node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/fonts/roboto.ttf */ \"./src/assets/fonts/roboto.ttf\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, `@font-face {\n  font-family: \"Roboto\";\n  src: url(${___CSS_LOADER_URL_REPLACEMENT_0___}) format(\"truetype\");\n}\nbody {\n  background: linear-gradient(135deg, rgba(126, 142, 217, 0.7803921569) 0%, rgba(157, 140, 174, 0.7960784314) 100%);\n  font-family: \"Roboto\", sans-serif;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  min-height: 100vh;\n  margin: 0;\n}\n\n.card {\n  background: white;\n  padding: 2rem;\n  border-radius: 20px;\n  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);\n  text-align: center;\n  max-width: 450px;\n  width: 90%;\n}\n\nh1 {\n  color: #2d3436;\n  margin-bottom: 0.5rem;\n}\n\n.subtitle {\n  color: #636e72;\n  font-style: italic;\n  margin-bottom: 1.5rem;\n}\n\n.features-list {\n  text-align: left;\n  list-style: none;\n  padding: 0;\n  display: inline-block;\n  margin-bottom: 1.5rem;\n}\n\n.features-list li {\n  margin: 10px 0;\n  color: #2d3436;\n  font-weight: 500;\n}\n\nimg {\n  max-width: 100%;\n  height: auto;\n  border-radius: 12px;\n  border: 3px solid #f0f2f5;\n}\n\n.footer {\n  margin-top: 1.5rem;\n  font-size: 0.8rem;\n  color: #b2bec3;\n}\n\nbody {\n  margin: 0;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  min-height: 100vh;\n  background: #f0f2f5;\n  font-family: \"Roboto\", sans-serif;\n}\n\n.card {\n  background: white;\n  padding: 30px;\n  border-radius: 15px;\n  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);\n  text-align: center;\n  max-width: 500px;\n}\n.card img {\n  width: 100%;\n  height: auto;\n  border-radius: 10px;\n  margin-top: 20px;\n}`, \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://webpack-task/./src/styles.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js\n}");
+eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, `body {\n  margin: 0;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  min-height: 100vh;\n  background: #f0f2f5;\n  font-family: \"Roboto\", sans-serif;\n}\n\n.card {\n  background: white;\n  padding: 30px;\n  border-radius: 15px;\n  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);\n  text-align: center;\n  max-width: 500px;\n}\n.card img {\n  width: 100%;\n  height: auto;\n  border-radius: 10px;\n  margin-top: 20px;\n}`, \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://webpack-task/./src/styles.scss?./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js\n}");
 
 /***/ },
 
@@ -27,16 +27,6 @@ eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpa
 (module) {
 
 eval("{\n\n/*\n  MIT License http://www.opensource.org/licenses/mit-license.php\n  Author Tobias Koppers @sokra\n*/\nmodule.exports = function (cssWithMappingToString) {\n  var list = [];\n\n  // return the list of modules as css string\n  list.toString = function toString() {\n    return this.map(function (item) {\n      var content = \"\";\n      var needLayer = typeof item[5] !== \"undefined\";\n      if (item[4]) {\n        content += \"@supports (\".concat(item[4], \") {\");\n      }\n      if (item[2]) {\n        content += \"@media \".concat(item[2], \" {\");\n      }\n      if (needLayer) {\n        content += \"@layer\".concat(item[5].length > 0 ? \" \".concat(item[5]) : \"\", \" {\");\n      }\n      content += cssWithMappingToString(item);\n      if (needLayer) {\n        content += \"}\";\n      }\n      if (item[2]) {\n        content += \"}\";\n      }\n      if (item[4]) {\n        content += \"}\";\n      }\n      return content;\n    }).join(\"\");\n  };\n\n  // import a list of modules into the list\n  list.i = function i(modules, media, dedupe, supports, layer) {\n    if (typeof modules === \"string\") {\n      modules = [[null, modules, undefined]];\n    }\n    var alreadyImportedModules = {};\n    if (dedupe) {\n      for (var k = 0; k < this.length; k++) {\n        var id = this[k][0];\n        if (id != null) {\n          alreadyImportedModules[id] = true;\n        }\n      }\n    }\n    for (var _k = 0; _k < modules.length; _k++) {\n      var item = [].concat(modules[_k]);\n      if (dedupe && alreadyImportedModules[item[0]]) {\n        continue;\n      }\n      if (typeof layer !== \"undefined\") {\n        if (typeof item[5] === \"undefined\") {\n          item[5] = layer;\n        } else {\n          item[1] = \"@layer\".concat(item[5].length > 0 ? \" \".concat(item[5]) : \"\", \" {\").concat(item[1], \"}\");\n          item[5] = layer;\n        }\n      }\n      if (media) {\n        if (!item[2]) {\n          item[2] = media;\n        } else {\n          item[1] = \"@media \".concat(item[2], \" {\").concat(item[1], \"}\");\n          item[2] = media;\n        }\n      }\n      if (supports) {\n        if (!item[4]) {\n          item[4] = \"\".concat(supports);\n        } else {\n          item[1] = \"@supports (\".concat(item[4], \") {\").concat(item[1], \"}\");\n          item[4] = supports;\n        }\n      }\n      list.push(item);\n    }\n  };\n  return list;\n};\n\n//# sourceURL=webpack://webpack-task/./node_modules/css-loader/dist/runtime/api.js?\n}");
-
-/***/ },
-
-/***/ "./node_modules/css-loader/dist/runtime/getUrl.js"
-/*!********************************************************!*\
-  !*** ./node_modules/css-loader/dist/runtime/getUrl.js ***!
-  \********************************************************/
-(module) {
-
-eval("{\n\nmodule.exports = function (url, options) {\n  if (!options) {\n    options = {};\n  }\n  if (!url) {\n    return url;\n  }\n  url = String(url.__esModule ? url.default : url);\n\n  // If url is already wrapped in quotes, remove them\n  if (/^['\"].*['\"]$/.test(url)) {\n    url = url.slice(1, -1);\n  }\n  if (options.hash) {\n    url += options.hash;\n  }\n\n  // Should url be wrapped?\n  // See https://drafts.csswg.org/css-values-3/#urls\n  if (/[\"'() \\t\\n]|(%20)/.test(url) || options.needQuotes) {\n    return \"\\\"\".concat(url.replace(/\"/g, '\\\\\"').replace(/\\n/g, \"\\\\n\"), \"\\\"\");\n  }\n  return url;\n};\n\n//# sourceURL=webpack://webpack-task/./node_modules/css-loader/dist/runtime/getUrl.js?\n}");
 
 /***/ },
 
@@ -110,16 +100,6 @@ eval("{\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleEle
 
 /***/ },
 
-/***/ "./src/assets/fonts/roboto.ttf"
-/*!*************************************!*\
-  !*** ./src/assets/fonts/roboto.ttf ***!
-  \*************************************/
-(module, __unused_webpack_exports, __webpack_require__) {
-
-eval("{module.exports = __webpack_require__.p + \"fdb9daac0ee9f129fd06.ttf\";\n\n//# sourceURL=webpack://webpack-task/./src/assets/fonts/roboto.ttf?\n}");
-
-/***/ },
-
 /***/ "./src/assets/images/webpack.jpg"
 /*!***************************************!*\
   !*** ./src/assets/images/webpack.jpg ***!
@@ -136,7 +116,7 @@ eval("{module.exports = __webpack_require__.p + \"5ee32b449f034f943c71.jpg\";\n\
   \**********************/
 (__unused_webpack_module, exports, __webpack_require__) {
 
-eval("{\nObject.defineProperty(exports, \"__esModule\", ({ value: true }));\n__webpack_require__(/*! ./styles.scss */ \"./src/styles.scss\");\nvar webpack_jpg_1 = __webpack_require__(/*! ./assets/images/webpack.jpg */ \"./src/assets/images/webpack.jpg\");\nvar container = document.getElementById('image-container');\nvar img = document.createElement('img');\nimg.src = webpack_jpg_1.default;\nimg.alt = 'Webpack Cat';\ncontainer.appendChild(img);\nconsole.log('Проект успешно собран и оформлен!');\n\n\n//# sourceURL=webpack://webpack-task/./src/index.ts?\n}");
+eval("{\nObject.defineProperty(exports, \"__esModule\", ({ value: true }));\n__webpack_require__(/*! ./styles.scss */ \"./src/styles.scss\");\nvar webpack_jpg_1 = __webpack_require__(/*! ./assets/images/webpack.jpg */ \"./src/assets/images/webpack.jpg\");\nvar root = document.body;\nroot.innerHTML = \"\\n    <div class=\\\"card\\\">\\n        <h1>Webpack \\u0432 \\u0434\\u0435\\u0439\\u0441\\u0442\\u0432\\u0438\\u0438</h1>\\n        <p class=\\\"subtitle\\\">\\u041A\\u043E\\u043D\\u0444\\u0438\\u0433\\u0443\\u0440\\u0430\\u0446\\u0438\\u044F \\u0438 \\u0443\\u043F\\u0440\\u0430\\u0432\\u043B\\u0435\\u043D\\u0438\\u0435 \\u0430\\u043A\\u0442\\u0438\\u0432\\u0430\\u043C\\u0438</p>\\n        <ul class=\\\"features-list\\\">\\n            <li>\\u2705 \\u0425\\u0435\\u0448\\u0438\\u0440\\u043E\\u0432\\u0430\\u043D\\u0438\\u0435 \\u0438\\u043C\\u0435\\u043D \\u0444\\u0430\\u0439\\u043B\\u043E\\u0432</li>\\n            <li>\\u2705 \\u041F\\u043E\\u0434\\u0434\\u0435\\u0440\\u0436\\u043A\\u0430 \\u043B\\u043E\\u043A\\u0430\\u043B\\u044C\\u043D\\u044B\\u0445 \\u0448\\u0440\\u0438\\u0444\\u0442\\u043E\\u0432 (Roboto)</li>\\n            <li>\\u2705 \\u041E\\u0431\\u0440\\u0430\\u0431\\u043E\\u0442\\u043A\\u0430 \\u0438\\u0437\\u043E\\u0431\\u0440\\u0430\\u0436\\u0435\\u043D\\u0438\\u0439</li>\\n            <li>\\u2705 \\u0418\\u043D\\u0442\\u0435\\u0433\\u0440\\u0430\\u0446\\u0438\\u044F \\u0441\\u0442\\u0438\\u043B\\u0435\\u0439 CSS</li>\\n            <li>\\u2705 \\u041E\\u043F\\u0442\\u0438\\u043C\\u0438\\u0437\\u0430\\u0446\\u0438\\u044F \\u0441\\u0431\\u043E\\u0440\\u043A\\u0438</li>\\n        </ul>\\n        <div id=\\\"image-container\\\"></div>\\n        <p class=\\\"footer\\\">\\u0421\\u043E\\u0431\\u0440\\u0430\\u043D\\u043E \\u0441 \\u043B\\u044E\\u0431\\u043E\\u0432\\u044C\\u044E \\u0438 Webpack \\u00A9 2026</p>\\n    </div>\\n\";\nvar container = document.getElementById('image-container');\nif (container) {\n    var img = document.createElement('img');\n    img.src = webpack_jpg_1.default;\n    img.alt = 'Webpack Cat';\n    container.appendChild(img);\n}\n\n\n//# sourceURL=webpack://webpack-task/./src/index.ts?\n}");
 
 /***/ },
 
@@ -181,9 +161,6 @@ eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpa
 /******/ 		// Return the exports of the module
 /******/ 		return module.exports;
 /******/ 	}
-/******/ 	
-/******/ 	// expose the modules object (__webpack_modules__)
-/******/ 	__webpack_require__.m = __webpack_modules__;
 /******/ 	
 /************************************************************************/
 /******/ 	/* webpack/runtime/compat get default export */
@@ -259,32 +236,6 @@ eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpa
 /******/ 		if (!scriptUrl) throw new Error("Automatic publicPath is not supported in this browser");
 /******/ 		scriptUrl = scriptUrl.replace(/^blob:/, "").replace(/#.*$/, "").replace(/\?.*$/, "").replace(/\/[^\/]+$/, "/");
 /******/ 		__webpack_require__.p = scriptUrl;
-/******/ 	})();
-/******/ 	
-/******/ 	/* webpack/runtime/jsonp chunk loading */
-/******/ 	(() => {
-/******/ 		__webpack_require__.b = (typeof document !== 'undefined' && document.baseURI) || self.location.href;
-/******/ 		
-/******/ 		// object to store loaded and loading chunks
-/******/ 		// undefined = chunk not loaded, null = chunk preloaded/prefetched
-/******/ 		// [resolve, reject, Promise] = chunk loading, 0 = chunk loaded
-/******/ 		var installedChunks = {
-/******/ 			"main": 0
-/******/ 		};
-/******/ 		
-/******/ 		// no chunk on demand loading
-/******/ 		
-/******/ 		// no prefetching
-/******/ 		
-/******/ 		// no preloaded
-/******/ 		
-/******/ 		// no HMR
-/******/ 		
-/******/ 		// no HMR manifest
-/******/ 		
-/******/ 		// no on chunks loaded
-/******/ 		
-/******/ 		// no jsonp function
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/nonce */

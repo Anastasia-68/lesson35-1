@@ -58,13 +58,14 @@ module.exports = {
     extensions: ['.tsx', '.ts', '.js'],
   },
   plugins: [
-    new HtmlWebpackPlugin({ template: './report.html' }),
+    
   
     new ESLintPlugin(),
     
     new BundleAnalyzerPlugin({
-        analyzerMode: 'static', 
-        openAnalyzer: false,
-    }),
+      analyzerMode: 'static', 
+      openAnalyzer: false,
+      reportFilename: 'index.html', 
+  }),
   ],
 };
