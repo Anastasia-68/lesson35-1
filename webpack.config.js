@@ -58,7 +58,7 @@ module.exports = {
     extensions: ['.tsx', '.ts', '.js'],
   },
   plugins: [
-    new HtmlWebpackPlugin({ template: './index.html' }),
+    new HtmlWebpackPlugin({ template: './report.html' }),
   
     new ESLintPlugin(),
     
